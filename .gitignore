@@ -1,0 +1,4 @@
+# Django virtual environment files
+myenv/
+*.pyc
+__pycache__/
